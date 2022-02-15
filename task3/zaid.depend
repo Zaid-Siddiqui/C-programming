@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574953857 source:c:\users\zaid\desktop\zaid\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1574955614 source:e:\programming\task3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
